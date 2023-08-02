@@ -31,6 +31,14 @@
 
 # Wireframes
 
+App task:
+
+- The business has asked you to come up with an app to log health and safety violations found on site and in the office
+- Each violation should be categorised in a way that makes it easy to report on - such as according to type and risk
+- Photographic evidence is a must as well as being able to log something without having any signal
+
+Please use a wireframe creator or app design creator such as Figma or Moqups to demonstrate your design and to explain your choices
+
 
 Every screen other than the Log In screen will have a header with the name, nav bar and logo (I left that out for the wireframes as I think this looks better at this stage).
 
@@ -39,7 +47,6 @@ Every screen other than the Log In screen will have a header with the name, nav 
 </div>
 
 1. Log In:
-The Log In screen should have:
 - App name and logo.
 - Form for inputting user details
 - Link to recover details if forgotten
@@ -47,7 +54,6 @@ The Log In screen should have:
 
 
 2. Home Screen:
-The home screen should have:
 - A header with the app name, logo and nav bar.
 - A brief description of the app's purpose.
 - Button to log a new violation.
@@ -70,7 +76,6 @@ The navigation should be placed at the top of the screen and should include the 
 </div>
 
 4. Log New Violation Screen:
-The log violation screen should include the following elements:
 - Large camera styled button that will take user straight to camera. Alternatively a button to use a picture from the device. 
 - A form to log a new violation, including the following fields:
   - Date and time of violation (automatically generated initially but manual if needed. Use cameras date stamp?)
@@ -80,7 +85,6 @@ The log violation screen should include the following elements:
 - A button to submit the violation. If the user tries to submit without any of the mandatory fields they will be prompted top fill these fields or add the picture.
 
 4. View All Violations Screen:
-The view violations screen should have:
 - A list of all logged violations, including the following information:
   - Type of violation
   - Risk level
@@ -91,7 +95,6 @@ The view violations screen should have:
 - Sort button to sort by various parameters (initially displayed chronologically)
 
 5. Generate Report Screen:
-The reports screen should include the following elements:
 - A form to generate a report, including the following fields:
   - Type of violation (dropdown menu)
   - Risk level (dropdown menu)
@@ -109,7 +112,6 @@ I have a added a wireframe which looks very
 
 
 8. Violation Details Screen:
-The violation details screen should have:
 - All the details of the selected violation, including the following information:
   - Type of violation
   - Risk level
