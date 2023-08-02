@@ -32,11 +32,11 @@
 # Wireframes
 
 
+Every screen other than the Log In screen will have a header with the name, nav bar and logo (I left that out for the wireframes as I think this looks better at this stage).
+
 <div align="center">
 <img src =first.png?raw=true >
 </div>
-
-Every screen other than the Log In screen will have a header with the name, nav bar and logo (I left that out for the wireframes as I think this looks better at this stage).
 
 1. Log In:
 The Log In screen should have:
@@ -66,7 +66,7 @@ The navigation should be placed at the top of the screen and should include the 
 - Contact: all appropriate contact information
 
 <div align="center">
-<img src =Second.png?raw=true >
+<img src =second.png?raw=true >
 </div>
 
 4. Log New Violation Screen:
