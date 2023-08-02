@@ -36,6 +36,8 @@
 <img src =first.png?raw=true >
 </div>
 
+Every screen other than the Log In screen will have a header with the name, nav bar and logo (I left that out for the wireframes as I think this looks better at this stage).
+
 1. Log In:
 The Log In screen should have:
 - App name and logo.
@@ -45,7 +47,7 @@ The Log In screen should have:
 
 
 2. Home Screen:
-The home screen should include the following elements:
+The home screen should have:
 - A header with the app name, logo and nav bar.
 - A brief description of the app's purpose.
 - Button to log a new violation.
@@ -64,8 +66,62 @@ The navigation should be placed at the top of the screen and should include the 
 - Contact: all appropriate contact information
 
 <div align="center">
-<img src =second.png?raw=true >
+<img src =Second.png?raw=true >
 </div>
+
+4. Log New Violation Screen:
+The log violation screen should include the following elements:
+- Large camera styled button that will take user straight to camera. Alternatively a button to use a picture from the device. 
+- A form to log a new violation, including the following fields:
+  - Date and time of violation (automatically generated initially but manual if needed. Use cameras date stamp?)
+  - Type of violation (dropdown menu)
+  - Risk level (dropdown menu)
+  - Description / Comment (text field)
+- A button to submit the violation. If the user tries to submit without any of the mandatory fields they will be prompted top fill these fields or add the picture.
+
+4. View All Violations Screen:
+The view violations screen should have:
+- A list of all logged violations, including the following information:
+  - Type of violation
+  - Risk level
+  - Description of violation
+  - Thumbnail of uploaded photo
+  - Date and time of violation
+- Each violation wll be pressable and take the user to the Violation Details screen 
+- Sort button to sort by various parameters (initially displayed chronologically)
+
+5. Generate Report Screen:
+The reports screen should include the following elements:
+- A form to generate a report, including the following fields:
+  - Type of violation (dropdown menu)
+  - Risk level (dropdown menu)
+  - Date range (date picker)
+- A button to generate the report.
+- A preview of the generated report. (potential for interesting data visualisation here)
+I have a added a wireframe which looks very 
+
+<div align="center">
+<img src =third.png?raw=true >
+</div>
+
+7. Unable To Post
+- This is a pop up that will show if the log cannot be posted due to not being connected to the network. The app will save the log and post it either when it next can or potentially the app can check for logs that have not been posted each time it starts and post then.  
+
+
+8. Violation Details Screen:
+The violation details screen should have:
+- All the details of the selected violation, including the following information:
+  - Type of violation
+  - Risk level
+  - Description/ Comment
+  - Full-size uploaded photo
+  - Date and time of violation
+- A button to go back to the view violations screen.
+
+
+
+
+
 
 
 
