@@ -29,6 +29,7 @@
 10. At the end of this I will reflect on what I have learned and share this with the team and service desk to see what can be done to improve this process.
 ***
 # Wireframes
-
-![first](first.png?raw=true )
-![second](second.png?raw=true )
+<div align="center">
+<img src =first.png?raw=true >
+<img src =second.png?raw=true >
+</div>
