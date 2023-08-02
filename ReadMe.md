@@ -13,7 +13,7 @@
 
 2. Let my manager know what I know and that I will try to help out. Do this via appropriate contact method at the time.
 
-3. Interact with the user. Express gratitude and show empathy. Gather further information about the issue such as if the problem is happening on multiple devices, networks or locations.
+3. Interact with the user whilst showing empathy for the situation. Gather further information about the issue such as if the problem is happening on multiple devices, networks or locations.
 
 4. Talk user through some simple troubleshooting ie, turning device off and on again, re-installing app, clear cache and if it a browser version exists, try that one.
 5. During this time I can also be doing any checks on my end to see if it is a system wide problem. If I am in office with other people or able to easily contact any colleagues during this process I could have them run some of these tests to find a quicker solution.
