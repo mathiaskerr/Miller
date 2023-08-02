@@ -101,7 +101,7 @@ The navigation should be placed at the top of the screen and should include the 
   - Date range (date picker)
 - A button to generate the report.
 - A preview of the generated report. (potential for interesting data visualisation here)
-I have a added a wireframe which looks very 
+
 
 <div align="center">
 <img src =third.png?raw=true >
