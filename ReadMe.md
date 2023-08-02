@@ -28,8 +28,45 @@
 
 10. At the end of this I will reflect on what I have learned and share this with the team and service desk to see what can be done to improve this process.
 ***
+
 # Wireframes
+
+
 <div align="center">
 <img src =first.png?raw=true >
+</div>
+
+1. Log In:
+The Log In screen should have:
+- App name and logo.
+- Form for inputting user details
+- Link to recover details if forgotten
+- I would include pop ups if incorrect details have been put in
+
+
+2. Home Screen:
+The home screen should include the following elements:
+- A header with the app name, logo and nav bar.
+- A brief description of the app's purpose.
+- Button to log a new violation.
+- Button to view all logged violations.
+- Button to generate reports.
+- Footer with copyright information, contact details and a privacy policy link.
+
+3. Nav Bar:
+The navigation should be placed at the top of the screen and should include the following elements:
+- Home
+- Log New Violation
+- View All Violations:
+- Generate Reports
+- Account Setting: to allow the user all appropriate changes.
+- Accessability: to allow the user to make the app more readable or accessible 
+- Contact: all appropriate contact information
+
+<div align="center">
 <img src =second.png?raw=true >
 </div>
+
+
+
+
